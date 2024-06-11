@@ -9,7 +9,7 @@
 
 - [Funcionalidades](#funcionalidades)
 
-- [Tecnologías utilizadas](#librerias-utilizadas)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
 
 - [Acceso al proyecto](#acceso-al-proyecto)
 
